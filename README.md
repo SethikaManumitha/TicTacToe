@@ -17,12 +17,7 @@ This is a simple **Java console-based and GUI-based Tic Tac Toe** game where a h
 ## 🎮 How to Play - Console
 
 - Run the game.
-- The board positions are numbered as follows:
-
-0 | 1 | 2
-3 | 4 | 5
-6 | 7 | 8
-
+- The board positions are numbered
 - You'll be prompted to enter a number (0–8) to place your move (`O`).
 - The AI (`X`) will automatically make its move.
 - The game ends with either a **win**, **loss**, or **draw**.
